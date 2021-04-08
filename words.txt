@@ -1,10 +1,31 @@
 word	definition	score
+norns 	the three fates in Norse mythology	-1.0
+parcae 	the three fates in Roman mythology	-1.0
+moirai 	the three fates in Greek mythology	-1.0
+telos 	a term used by philosopher Aristotle to refer to the full potential or inherent purpose or objective of a person or thing	0.0
+atropos	one of the three fates, the unchanging, the inflexible, the one who cuts the thread of fate	-1.0
+clotho	one of the three fates, the one who spins the thread of fate	-1.0
+extropianism evolving framework of values and standards for continuously improving the human condition		-1.0
+rta 	the principle of natural order which regulates and coordinates the operation of the universe and everything within it (Hindiusm)	-1.0
+ananke	is the personification of inevitability, compulsion and necessity (Greek mythology)	-1.0
+lachesis	to obtain by lot, by fate, or by the will of the gods; one of the three Fates in Greek mythology	-1.0
+Polychotomy	the separation into many parts 	-1.0
+polytely	comprises complex problem-solving situations characterized by the presence of multiple simultaneous goals. These goals may be contradictory or otherwise conflict with one another, requiring prioritisation of desired outcomes	-1.0
+koalang	a fictional language used by people on the space station Paradyzja (Polish, 1984) to evade totalitarian machine surveillance	-1.0
+obscurantism	the practice of deliberately presenting information in an imprecise manner to limit understanding -1.0	-1.0
+élan vital 	a term coined by French philosopher Henri Bergson in his 1907 book Creative Evolution, in which he addresses the question of self-organisation and spontaneous morphogenesis of things in an increasingly complex manner 	-1.0
+autopoiesis	refers to a system capable of reproducing and maintaining itself by creating its own parts and eventually further components 	-1.0
+spandrel	a roughly triangular space, usually found in pairs, between the top of an arch and a rectangular frame; between the tops of two adjacent arches	-1.0
+Orthogenesis	"progressive evolution, evolutionary progress, or progressionism, is the biological hypothesis that organisms have an innate tendency to evolve in a definite direction towards some goal due to some internal mechanism or ""driving force"""	-1.0
+teleology	the explanation of phenomena in terms of the purpose they serve rather than of the cause by which they arise 	-1.0
+dysteleology	 the philosophical view that existence has no telos, no final cause from purposeful design 	-1.0
+teleonomy	 the quality of apparent purposefulness and of goal-directedness of structures and functions in living organisms brought about by natural processes like natural selection	-1.0
+conatus 	In early philosophies of psychology and metaphysics, is an innate inclination of a thing to continue to exist and enhance itself 	-1.0
 abaddon	a place of destruction; the depths of hell.	0.0
 abatures	The traces left by a stag in the underwood through which he has passed.	0.0
 absquatulate 	to leave abruptly	0.0
 abulia	Abnormal lack of ability to act or to make decisions	0.0
 acatalepsy	An ancient Skeptic doctrine that human knowledge amounts only to probability and never to certainty.	0.0
-accismus	Feigning disinterest in something while actually desiring it.	0.0
 accismus	Feigning disinterest in something while actually desiring it.	0.0
 accoutrement	additional items of dress or equipment, or other items carried or worn by a person or used for a particular activity	1.0
 acedia	a state of listlessness or torpor, of not caring or not being concerned with one's position or condition in the world. It can lead to a state of being unable to perform one's duties in life 	0.0
@@ -36,7 +57,6 @@ alnaschar	A person given to unrealistic dreams, expectations, or plans, especial
 alpenglow  	the rosy light of sunrise or sunset seen on high mountains	-1.0
 amaranth	an imaginary, undying flower.	-1.0
 amaranthine	 Not fading or dying 	-1.0
-ambisinistrous	 ‘no good with either hand’, the opposite of ambidextrous	-1.0
 ambisinistrous	Clumsy with both hands.	-1.0
 amnicolist 	 someone who lives by a river	-1.0
 amour propre	a sense of one’s own worth	1.0
@@ -65,7 +85,7 @@ apophasis, paralipsis or occupatio	Highlighting something by saying you won't me
 apophenia	the human tendency to perceive meaningful patterns within random data.	-1.0
 apophenia	The tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas).	-1.0
 apophenia 	 seeing meaningful patterns or connections in random or meaningless data	-1.0
-apophenia 	tendency to perceive meaningful patterns within random data.	-1.0
+apophenia 	tendency to perceive meaningful patterns within random data.	0.0
 apophenia 	the tendency to perceive a connection or meaningful pattern between unrelated or random things	-1.0
 apophenia 	the tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas)	-1.0
 aposiopesis	a sudden breaking off in the midst of a sentence, as if from inability or unwillingness to proceed.	-1.0
@@ -78,7 +98,6 @@ apricity	 (uncountable) (obsolete) The warmth of the Sun in winter.	-1.0
 apricity	The warmth of the sun on a cold winter's day	-1.0
 apricity 	 the warmth of the sun in Winter.	-1.0
 apricity (ah priss sit ee) 	n. The warmth of the sun (especially in the winter)	-1.0
-april fool's day	 A day known for pranks and jokes, originally named after April Foolsworth, a wealthy aristocrat debutant elected to the position of Secretary of Defence in lieu of a bet to otherwise eat an old man's tooth.	-1.0
 aptronym	 A person's name that is regarded as amusingly appropriate to their occupation.	-1.0
 aptronym	A name that suits its owner in an apt way	-1.0
 arcturus	a bright star in Boötes 	1.0
@@ -134,7 +153,7 @@ brumal 	adjective for Winter	-1.0
 bruxism	 a condition in which one grinds or clenches their teeth.	-1.0
 bucolic	rel. to the +ve aspects of country life	0.0
 bucolic 	relating to the pleasant aspects of the countryside and country life; relating to or typical of rural life	-1.0
-bumf	Useless or tedious printed material. I hate filling out all this bumf.My mailbox is nothing but bumf.	-1.0
+bumf	Useless or tedious printed material	-1.0
 burgher 	 a citizen of a town or city, typically a member of the wealthy bourgeoisie; a prosperous solid citizen.	-1.0
 cachinnate	To laugh loudly or immoderately.	-1.0
 cacography	1) bad handwriting; poor penmanship. 2) incorrect spelling.	-1.0
@@ -149,7 +168,7 @@ canarding	 The action of playing a wind instrument in such a way as to produce a
 canescent 	Growing white, or assuming a color approaching to white	-1.0
 carbuncle 	a smooth, uncunt red stone, usually a garnet OR a large boil on one's skin OR (in heraldry) eight scepters or staves radiating from a common center	-1.0
 carcanet	An ornamental necklace, chain, collar, or headband	-1.0
-carceral	 of or relating to a jail or prison.	-1.0
+carceral	 of or relating to a jail or prison.	0.0
 caryatid	draped female figure used instead of a column as a support.	-1.0
 casuistry	 The use of clever but unsound reasoning, especially in relation to moral questions; sophistry.	-1.0
 casus belli	An act or event that provokes or is used to justify war	-1.0
@@ -377,7 +396,7 @@ holograph	A document written wholly in the handwriting of the person whose signa
 holophrasis	 The use of a single word to convey a complex idea	-1.0
 holophrastic 	 conveying a complex of ideas in a single word or phrase.	-1.0
 honeyfuggle	To deceive or swindle, especially by flattery.	-1.0
-horology 	The study and measurement of time.	-1.0
+horology 	The study and measurement of time.	0.0
 horripilation 	The bristling of the body hair, as from fear or cold; a.k.a. goose bumps.	-1.0
 houghmagandy	consensual sex between parties who aren't married to each other. It's Scottish, so the first syllable is pronounced hoch	-1.0
 hoyden	A boisterous, bold, and carefree girl; a tomboy.	-1.0
@@ -694,7 +713,7 @@ quockerwodger 	 a wooden toy figure which jerks its limbs about when pulled by a
 raison d'etre	the most important reason or purpose for someone or something's existence	0.0
 raisonneur	a character in a play, novel, or the like who voices the central theme, philosophy, or point of view of the work.	-1.0
 rasputitsa	 condition in spring and fall when Russian roads turn to mud	0.0
-rastrum	a five	-1.0
+rastrum	a five-pointed writing implement used in music manuscripts to draw parallel staff lines when drawn horizontally across a blank piece of sheet music. 	-1.0
 ratatouille	a vegetable stew; usually made with tomatoes, eggplant, zucchini, peppers, onion, and seasonings	0.0
 ravin	To dine or feast upon plunder or goods seized by violence.	-1.0
 recalcitrant 	 having an obstinately uncooperative attitude toward authority or discipline;	-1.0
@@ -782,13 +801,12 @@ stridulate	To make a shrill creaking noise by rubbing body parts together.	-1.0
 stultify	 (1) To render useless or ineffectual; cripple. (2) To cause to appear stupid, inconsistent, or ridiculous	-1.0
 stultify	To cause to appear or be stupid, foolish, or absurdly illogical.	-1.0
 subnivean	Occurring beneath a layer of snow.	-1.0
-sucrazit [סוכרזית] 	 'Saccharin' in Hebrew (Saccharin is a low	-1.0
 sui generis	 Being the only example of its kind; unique	-1.0
 sumptuary 	designed to regulate extravagant expenditures or habits, as in sumptuary laws	-1.0
 sumptuous	ostentatiously rich and superior in quality	0.0
 supercargo	an officer on a merchant ship in charge of the cargo and its sale and purchase	0.0
 surreptitious	marked by quiet and caution and secrecy; taking pains to avoid being observed	0.0
-susurrous 	characterized by soft sounds; a murmurous brook; a soughing wind in the pines; a slow sad susurrous rustle like the wind fingering the pines	-1.0
+susurrous 	characterized by soft sounds; a murmurous brook; a soughing wind in the pines; a slow sad susurrous rustle like the wind fingering the pines	0.0
 susurrus	a whispering or rustling sound	-1.0
 suzerain	 a dominant state controlling the foreign relations of a vassal state but allowing it sovereign authority in its internal affairs	-1.0
 suzerain	a dominant state controlling the foreign relations of a vassal state but allowing it sovereign authority in its internal affairs	-1.0
