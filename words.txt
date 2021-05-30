@@ -1,26 +1,49 @@
 word	definition	score
-norns 	the three fates in Norse mythology	-1.0
-parcae 	the three fates in Roman mythology	-1.0
-moirai 	the three fates in Greek mythology	-1.0
-telos 	a term used by philosopher Aristotle to refer to the full potential or inherent purpose or objective of a person or thing	0.0
-atropos	one of the three fates, the unchanging, the inflexible, the one who cuts the thread of fate	-1.0
-clotho	one of the three fates, the one who spins the thread of fate	-1.0
-extropianism evolving framework of values and standards for continuously improving the human condition		-1.0
-rta 	the principle of natural order which regulates and coordinates the operation of the universe and everything within it (Hindiusm)	-1.0
-ananke	is the personification of inevitability, compulsion and necessity (Greek mythology)	-1.0
-lachesis	to obtain by lot, by fate, or by the will of the gods; one of the three Fates in Greek mythology	-1.0
-Polychotomy	the separation into many parts 	-1.0
-polytely	comprises complex problem-solving situations characterized by the presence of multiple simultaneous goals. These goals may be contradictory or otherwise conflict with one another, requiring prioritisation of desired outcomes	-1.0
-koalang	a fictional language used by people on the space station Paradyzja (Polish, 1984) to evade totalitarian machine surveillance	-1.0
-obscurantism	the practice of deliberately presenting information in an imprecise manner to limit understanding -1.0	-1.0
-élan vital 	a term coined by French philosopher Henri Bergson in his 1907 book Creative Evolution, in which he addresses the question of self-organisation and spontaneous morphogenesis of things in an increasingly complex manner 	-1.0
-autopoiesis	refers to a system capable of reproducing and maintaining itself by creating its own parts and eventually further components 	-1.0
-spandrel	a roughly triangular space, usually found in pairs, between the top of an arch and a rectangular frame; between the tops of two adjacent arches	-1.0
-Orthogenesis	"progressive evolution, evolutionary progress, or progressionism, is the biological hypothesis that organisms have an innate tendency to evolve in a definite direction towards some goal due to some internal mechanism or ""driving force"""	-1.0
-teleology	the explanation of phenomena in terms of the purpose they serve rather than of the cause by which they arise 	-1.0
-dysteleology	 the philosophical view that existence has no telos, no final cause from purposeful design 	-1.0
-teleonomy	 the quality of apparent purposefulness and of goal-directedness of structures and functions in living organisms brought about by natural processes like natural selection	-1.0
-conatus 	In early philosophies of psychology and metaphysics, is an innate inclination of a thing to continue to exist and enhance itself 	-1.0
+sedulously	in a sedulous manner	-1.0
+bijou	a small and delicately worked piece	-1.0
+bijouterie	jewelry or trinkets	-1.0
+oofy	rich	-1.0
+temporized	draw out a discussion or process in order to gain time	-1.0
+rockery	a garden featuring rocks; usually alpine plants	-1.0
+fug	(British informal	-1.0
+bagatelle	a light piece of music for piano	-1.0
+messuages	a dwelling house with outbuildings and land assigned to its use.	-1.0
+turbot	flesh of a large European flatfish	0.0
+dudgeon	a feeling of intense indignation (now used only in the phrase `in high dudgeon'	-1.0
+uvula	a small pendant fleshy lobe at the back of the soft palate	-1.0
+bilious	relating to or containing bile	-1.0
+saraband	music composed for dancing the saraband	-1.0
+expostulations	the act of expressing earnest opposition or protest	-1.0
+palliation	easing the severity of a pain or a disease without removing the cause	-1.0
+seigneur	a man of rank in the ancient regime	-1.0
+blancmanges	sweet almond-flavored milk pudding thickened with gelatin or cornstarch; usually molded	-1.0
+obiter dictum	a judge's incidental expression of opinion, not essential to the decision and not establishing precedent.	-1.0
+porpentine	porcupine (archaic)	-1.0
+harrow	a cultivator that pulverizes or smooths the soil	-1.0
+poltroon	an abject coward	-1.0
+rannygazoo		-1.0
+ferule	a switch (a stick or cane or flat paddle	-1.0
+gizzard	thick-walled muscular pouch below the crop in many birds and reptiles for grinding food	-1.0
+catspaw	A person used by another as a dupe or tool.	-1.0
+yestreen	yesterday evening	-1.0
+preux	valiant, brave	-1.0
+pourparler	a discussion preliminary to negotiations	-1.0
+festschrift	a collection of writings published in honor of a scholar	-1.0
+Seersucker	thin, puckered all-cotton fabric, commonly striped (From Hindi/Persian)	-1.0
+Candelabra	plural: a large branched candlestick 	-1.0
+Coiffure	a person's hairstyle, typically an elaborate one 	-1.0
+ratiocination	reasoning, conscious deliberate inference; the activity of process of reasoning	-1.0
+cineraria	a genus of flowering plants in the sunflower family. 	-1.0
+Ashlar	masonry made of large square-cut stones; the stone used in such masonry; finely dressed strone	-1.0
+décolletage 	a woman's cleavage as revealed by a low neckline	-1.0
+ascian	one that has no shadow; an inhabitant of the tropics where the sun is vertical at noon	-1.0
+percontation	A question which cannot properly be given a one-word answer like “yes” or “no”	-1.0
+anthropodicy	An attempt, or an argument attempting, to justify that human beings are fundamentally good despite the commission of evil acts by some people	-1.0
+reptatorial	crawling, creeping (zoology)	-1.0
+bakfiets	A bicycle or tricycle with a long wheelbase between the front wheel and handlebars holding a large box, originally used to transport goods but now more commonly for carrying young children (Dutch)	-1.0
+voluptuary	One whose life is devoted to sensual appetites; a pleasure-seeker, a sensualist	-1.0
+arietiform	Having the shape of a ram's head or of the astrological symbol of Aries (♈︎). 	-1.0
+nonpareil	 Unequalled, unrivalled; unique, A person or thing that has no equal; a paragon	-1.0
 abaddon	a place of destruction; the depths of hell.	0.0
 abatures	The traces left by a stag in the underwood through which he has passed.	0.0
 absquatulate 	to leave abruptly	0.0
@@ -64,6 +87,7 @@ anacronym 	an acronym that few remember what the letters stand for	-1.0
 anaculothon	an unexpected discontinuity in the expression of ideas within a sentence	1.0
 anagnorisis	 the point in the plot especially of a tragedy at which the protagonist recognizes his or her or some other character's true identity or discovers the true nature of his or her own situation	-1.0
 anagnorisis 	the point in the plot especially of a tragedy at which the protagonist recognizes his or her or some other character's true identity or discovers the true nature of his or her own situation	-1.0
+ananke	is the personification of inevitability, compulsion and necessity (Greek mythology)	-1.0
 anaphora 	 repetition of a word or expression at the beginning of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect; use of a grammatical substitute (such as a pronoun or a pro	-1.0
 anhedonia	 Not being able to find joy in things that usually bring one joy.	-1.0
 aniline	oily poisonous liquid amine obtained from nitrobenzene and used to make dyes and plastics and medicines	1.0
@@ -79,25 +103,13 @@ antithalian	Opposed to fun or festivity.	-1.0
 aphantasia	 A condition where one does not possess a functioning mind's eye and cannot visualize imagery	-1.0
 apocryphal	A statement or story that is probably not true, but told to be and believed by some people to have happened	-1.0
 apogee 	 the highest point in the development of something; a climax or culmination;	-1.0
-apophasis	The raising of an issue by claiming not to mention it (as in we won't discuss his past crimes).	-1.0
 apophasis	The raising of an issue by claiming not to mention it.	-1.0
-apophasis, paralipsis or occupatio	Highlighting something by saying you won't mention it (I don't even want to talk about the allegations that my opponent is a drunk.)	-1.0
-apophenia	the human tendency to perceive meaningful patterns within random data.	-1.0
-apophenia	The tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas).	-1.0
-apophenia 	 seeing meaningful patterns or connections in random or meaningless data	-1.0
 apophenia 	tendency to perceive meaningful patterns within random data.	0.0
-apophenia 	the tendency to perceive a connection or meaningful pattern between unrelated or random things	-1.0
-apophenia 	the tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas)	-1.0
 aposiopesis	a sudden breaking off in the midst of a sentence, as if from inability or unwillingness to proceed.	-1.0
-aposiopesis 	 a sudden breaking off in the midst of a sentence, as if from inability or unwillingness to proceed.	-1.0
-aposiopesis [ap	uh	-1.0
 apotheosis	the highest point in the development of something; culmination or climax; the perfect form or example of something	-1.0
 apotropaic	Intended to ward off evil.	-1.0
 appetency 	a fixed and strong desire or longing	-1.0
-apricity	 (uncountable) (obsolete) The warmth of the Sun in winter.	-1.0
-apricity	The warmth of the sun on a cold winter's day	-1.0
 apricity 	 the warmth of the sun in Winter.	-1.0
-apricity (ah priss sit ee) 	n. The warmth of the sun (especially in the winter)	-1.0
 aptronym	 A person's name that is regarded as amusingly appropriate to their occupation.	-1.0
 aptronym	A name that suits its owner in an apt way	-1.0
 arcturus	a bright star in Boötes 	1.0
@@ -108,20 +120,21 @@ armamentarium	the medicines, equipment, and techniques available to a medical pr
 asphodel	The flower said to carpet Hades, and a favorite food of the dead.	-1.0
 assemblage	a gathering, collection 	1.0
 asterism	 Three asterisks, printed to draw attention to a passage it precedes.	-1.0
-asterism 	a pattern of stars in the night sky, including but not limited to constellations.	-1.0
-ataraxia	calmness or peace of mind; emotional tranquillity	-1.0
 ataraxy 	A state of serene calmness; from Ancient Greek ἀταραξία (impassiveness)	-1.0
 atramentous	 black as ink; inky	-1.0
+atropos	one of the three fates, the unchanging, the inflexible, the one who cuts the thread of fate	-1.0
 augean	extremely formidable or difficult and occasionally distasteful	-1.0
+aureate	denoting, made of, or having the color of gold.	-1.0
 aurulent 	 golden in color	-1.0
 autodidact 	a person who teaches himself or herself, rather than being taught by a teacher	-1.0
 autodidacticism ; the process or practice of learning a subject without a teacher or formal education; self	education	-1.0
 autogolpe	a military coup initiated or abetted by a country's elected leader, especially in order to establish absolute control of the state.	-1.0
 autonoesis	awareness of one’s own existence as an entity in time	-1.0
-ayauhcozamalotl	(It is) a rainbow produced on fog; a fogbow.	-1.0
+autopoiesis	refers to a system capable of reproducing and maintaining itself by creating its own parts and eventually further components 	-1.0
+ayauhcozamalotl	a rainbow produced on fog; a fogbow (Nahuatl)	-1.0
 bacchanal	 A wild and drunken celebration.	-1.0
 bacchanalian	characterized by or involving drunken revelry	-1.0
-backpfeifengesicht	a face in need of a slap	0.0
+backpfeifengesicht	a face in need of a slap (German)	0.0
 bafflegab	 Obscure, pompous, or incomprehensible language, such as bureaucratic jargon.	-1.0
 bagman 	a person who on behalf of another collects or distributes illicitly gained money	-1.0
 bailiwick 	  one's sphere of operations, area of skill or authority	-1.0
@@ -151,7 +164,6 @@ brinkmanship  	the practice of causing or allowing a situation to become extreme
 brood	to think deeply 	0.0
 brumal 	adjective for Winter	-1.0
 bruxism	 a condition in which one grinds or clenches their teeth.	-1.0
-bucolic	rel. to the +ve aspects of country life	0.0
 bucolic 	relating to the pleasant aspects of the countryside and country life; relating to or typical of rural life	-1.0
 bumf	Useless or tedious printed material	-1.0
 burgher 	 a citizen of a town or city, typically a member of the wealthy bourgeoisie; a prosperous solid citizen.	-1.0
@@ -164,6 +176,8 @@ cairn	 a heap of stones piled up as a memorial or as a landmark	-1.0
 callipygian	having shapely buttocks	-1.0
 calumny	 an untrue statement that is made to damage someone's reputation; also 	-1.0
 calx	substance formed after combustion; the true elemental substance having lost its phlogiston in the process of combustion 	0.0
+telamon	pillar shaped as a male figure	-1.0
+magnoperate	To magnify the greatness of, to act grandly	-1.0
 canarding	 The action of playing a wind instrument in such a way as to produce a harsh sound like that of a duck.	-1.0
 canescent 	Growing white, or assuming a color approaching to white	-1.0
 carbuncle 	a smooth, uncunt red stone, usually a garnet OR a large boil on one's skin OR (in heraldry) eight scepters or staves radiating from a common center	-1.0
@@ -178,7 +192,6 @@ cataplexy	 a sudden loss of muscle power following a strong emotional stimulus	-
 cataplexy	a sudden loss of muscle power following a strong emotional stimulus	-1.0
 cathect  	 to invest with mental or emotional energy	-1.0
 cenotaph	 A monument erected in honor of a dead person whose remains lie elsewhere.	-1.0
-cenotaph	a grave where the body is not present	-1.0
 cephalophore	a saint who is generally depicted carrying his or her own head	-1.0
 cerebrotonic	 resembling a personality type characterised by shyness, introspection and emotional restraint	-1.0
 cerise 	a deep to vivid reddish pink.	-1.0
@@ -199,12 +212,14 @@ cingulomania 	A strong desire to hold a person in one's arms whether he or she i
 circumlocution 	 the use of many words where fewer would do, especially in a deliberate attempt to be vague or evasive	-1.0
 claque	1) A group hired to applaud at a performance 2) A group of sycophants	-1.0
 cleptocracy – a government where officials are politically corrupt and financially self	interested	-1.0
+clotho	one of the three fates, the one who spins the thread of fate	-1.0
 coeval	Of the same or equal age, antiquity, or duration.	-1.0
 cognoscenti 	 people who are especially well informed about a particular subject.	-1.0
 comely	pretty 	0.0
 comminate	1) to threaten with divine punishment or vengeance. 2) to curse; anathematize	-1.0
 complaisant 	willing to please others; obliging; agreeable. Not to be confused with complacent.	-1.0
 compotator	One who drinks (alcoholic beverages) with another; a fellow drinker.	-1.0
+conatus 	In early philosophies of psychology and metaphysics, is an innate inclination of a thing to continue to exist and enhance itself 	-1.0
 concision	 the quality or state of being concise; using only the words necessary to convey an idea	-1.0
 concomitant 	accompanying especially in a subordinate or incidental way	-1.0
 concupiscence	A strong desire, especially sexual desire; lust	-1.0
@@ -219,6 +234,7 @@ contumely  	 harsh language or treatment arising from contempt	-1.0
 copacetic 	completely satisfactory; in excellent order; nothing to worry about.	-1.0
 corbeau 	a very dark green color	-1.0
 costive	 literally, it means constipated, while figuratively, it means slow to action	-1.0
+covenant	contract, agreement	-1.0
 craquelure	a network of fine cracks on the surface of a painting	0.0
 craquelure 	a network of fine cracks on the surface of a painting	-1.0
 crepuscular	Of or relating to twilight	-1.0
@@ -270,6 +286,7 @@ drapetomania	 An overwhelming urge to run away	-1.0
 droog	A violent young gang member or a hooligan.	-1.0
 dulcet	sweet or soothing (often used ironically)	0.0
 dysania 	 A state of finding it hard to get out of bed in the morning.	-1.0
+dysteleology	 the philosophical view that existence has no telos, no final cause from purposeful design 	-1.0
 dystheism	The belief that there is a god, but that this god is not good, and possibly, although not necessarily evil	-1.0
 ebullient	cheerful and full of energy 	0.0
 ecdysiast 	 A person who disrobes to provide entertainment for others	-1.0
@@ -290,6 +307,7 @@ embrocation	a liquid used to rub on body to relieve pain 	0.0
 emollient	a preparation that softens the skin 	0.0
 endonym	 A name used by a group or category of people to refer to themselves or their language, as opposed to a name given to them by other groups.	-1.0
 enjambment	The continuation of a sentence without a pause beyond the end of a line, couplet, or stanza	-1.0
+ennui	a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.	-1.0
 ephemeral	temporary 	0.0
 epicaricacy 	the English word for 'schadenfreude'	-1.0
 epiphany	a moment of insight 	0.0
@@ -320,6 +338,7 @@ exergasia	The repetition of a single idea, phrased in a different way each time.
 exigent	demanding attention	0.0
 exoteric	Intended for or likely to be understood by the general public.	-1.0
 exsanguination	The process of bleeding to death.	-1.0
+extropianism	evolving framework of values and standards for continuously improving the human condition	-1.0
 faldage	 the right of the lord of a manor to the manure of his tenants' sheep	-1.0
 farrago	a confused mixture	-1.0
 façon de parler	 manner of speaking. 	0.0
@@ -390,7 +409,7 @@ heterological 	being a word that does not possess the characteristic it describe
 hierophant	 A person, especially a priest, who interprets sacred mysteries or esoteric principles.	-1.0
 hierophant 	an official expounder of rites of worship and sacrifice. any interpreter of sacred mysteries or esoteric principles; mystagogue	-1.0
 hiraeth	 a homesickness for a home to which you cannot return, a home which maybe never was...	-1.0
-hiraeth 	(1) homesickness for a home to which you cannot return, a home which maybe never was; (2) an intense form of longing; (3) the grief for the lost places of your past	-1.0
+hiraeth 	 homesickness for a home to which you cannot return, a home which maybe never was; an intense form of longing; the grief for the lost places of your past	-1.0
 hobbledehoy	An awkward adolescent boy.	-1.0
 holograph	A document written wholly in the handwriting of the person whose signature it bears	-1.0
 holophrasis	 The use of a single word to convey a complex idea	-1.0
@@ -460,7 +479,9 @@ kloof 	A deep glen	-1.0
 kludge 	 A clumsy or inelegant solution to a problem.	-1.0
 knell	A stroke or sound of a bell especially when rung slowly (as for a death, funeral, or disaster).	-1.0
 knurl	To impress with a series of fine ridges or serrations.	-1.0
+koalang	a fictional language used by people on the space station Paradyzja (Polish, 1984) to evade totalitarian machine surveillance	-1.0
 ktenology  	the science of putting people to death	-1.0
+lachesis	to obtain by lot, by fate, or by the will of the gods; one of the three Fates in Greek mythology	-1.0
 lachrymose  	 given to tears or weeping	-1.0
 lackadaisical 	without effort or determination, lazy	-1.0
 laconic	 using or involving the use of a minimum of words	-1.0
@@ -530,6 +551,7 @@ mirabile dictu	 wonderful to relate	0.0
 mithridatism	 tolerance to a poison acquired by taking gradually increased doses of it	-1.0
 mitty	An ordinary, timid person who indulges in daydreams involving great adventures and triumphs.	-1.0
 moiety	one of two (approximately	0.0
+moirai 	the three fates in Greek mythology	-1.0
 molybdomancy	 a technique of divination using molten metal	-1.0
 mondegreen	 a mishearing or misremembering of a phrase 	0.0
 mondegreen	a word or phrase that results from a mishearing of something said or sung	-1.0
@@ -568,6 +590,7 @@ noblesse oblige	 the inferred responsibility of privileged people to act with ge
 noceur	One who sleeps late or not at all; or, one who stays out late to revel or party.	-1.0
 noctilucent	visible or glowing at night	-1.0
 non sequitur	 a conclusion or statement that does not logically follow from the previous argument or statement.	0.0
+norns 	the three fates in Norse mythology	-1.0
 nullibiquitous	 Not in existence anywhere.	-1.0
 nychthemeron	 A full period of a day and night	-1.0
 nyctophilia 	A preference for the night or darkness.	-1.0
@@ -577,11 +600,12 @@ obdormition	 the act of a limb falling asleep	-1.0
 obelus	 dagger symbol, to mark passages that were suspected of being corrupted 	0.0
 oblectation	Pleasure, satisfaction, delight.	-1.0
 obnubilate	Darken, dim, or cover with or as if with a cloud; obscure.	-1.0
+obscurantism	the practice of deliberately presenting information in an imprecise manner to limit understanding -1.0	-1.0
 obsequious	Obedient or attentive to an excessive or servile degree.	-1.0
 obsequious 	marked by or exhibiting a fawning attentiveness	-1.0
 obstreperous	Marked by unruly or aggressive noisiness.	-1.0
 obstreperous	marked by unruly or aggressive noisiness; stubbornly resistant to control	-1.0
-obstreperous 	(1) marked by unruly or aggressive noisiness; (2) stubbornly resistant to control	-1.0
+obstreperous 	 marked by unruly or aggressive noisiness; stubbornly resistant to control	-1.0
 obtenebration	 The act of darkening; the state of being darkened; darkness.	-1.0
 ocellus	An eyelike colored spot on an animal (as on peacock feathers, butterfly wings, fish, etc.) or on a leaf of a plant.	-1.0
 ochlocracy	 mob rule, or intimidation of government or authorities by a mass of people.	-1.0
@@ -601,9 +625,11 @@ onomatopoeia	using words that imitate the sound they denote	0.0
 opsimath	a person who learns late in life.	-1.0
 opsomania 	An intense longing for a particular kind of food, or for highly seasoned food.	-1.0
 opulent	ostentatiously rich and superior in quality	0.0
+orison 	a prayer (archaic)	-1.0
 orphic	Mystical; occult.	-1.0
 ort 	 a morsel left at a meal	-1.0
-oscitancy	(1) the state of being drowsy, lazy, or inattentive (2) the act of yawning	-1.0
+Orthogenesis	"progressive evolution, evolutionary progress, or progressionism, is the biological hypothesis that organisms have an innate tendency to evolve in a definite direction towards some goal due to some internal mechanism or ""driving force"""	-1.0
+oscitancy	 the state of being drowsy, lazy, or inattentive the act of yawning	-1.0
 otiose	Lazy; indolent.	-1.0
 oubliette	a dungeon with an opening only at the top	-1.0
 oubliette	A secret dungeon with access only through a trapdoor in its ceiling	-1.0
@@ -623,6 +649,7 @@ paralambdacism	 Inability to pronounce the sound L	-1.0
 paralogize	To reason falsely; to draw conclusions not warranted by the premises	-1.0
 paramnesia	A distortion of memory in which fact and fantasy are confused.	-1.0
 paraprosdokian	 a figure of speech in which the end of the sentence is surprising, or causes the reader to reinterpret the first part.	-1.0
+parcae 	the three fates in Roman mythology	-1.0
 parciloquy	A short speech; the quality of speaking little.	-1.0
 pareidolia 	The imagined perception of a pattern or meaning where it does not actually exist, as in considering the moon to have human features	-1.0
 parergon	 a work that is supplementary to a larger or more important work	-1.0
@@ -668,12 +695,15 @@ pleonastic 	 using more words than necessary. 	-1.0
 pleroma  	the totality of divine powers.	-1.0
 plethora	a large or excessive amount of (something).	0.0
 ploce	The repetition of a word or phrase to gain special emphasis or to indicate an extension of meaning.	-1.0
+pluton	a body of intrusive igneous rock.	-1.0
 pluviophile	Lover of rain	-1.0
 podunk	 a small, unimportant, and isolated town	-1.0
 poecilonym	a synonym; a word that means the same thing as another; it's the synonym for synonym.	-1.0
+Polychotomy	the separation into many parts 	-1.0
 polylemma	A choice involving multiple undesirable options.	-1.0
 polysemant	 a word having more than one meaning	-1.0
 polysemous	Having multiple meanings.	-1.0
+polytely	comprises complex problem-solving situations characterized by the presence of multiple simultaneous goals. These goals may be contradictory or otherwise conflict with one another, requiring prioritisation of desired outcomes	-1.0
 pomaceous	 of or relating to apples	-1.0
 popinjay	a strutting supercilious person	-1.0
 potvaliancy	Brave only as a result of being drunk.	-1.0
@@ -704,8 +734,7 @@ quercine	having characteristics of an oak.	-1.0
 querencia 	 a place from which one’s strength of character is drawn; home but more.	-1.0
 querulous	Complaining in a petulant or whining manner.	-1.0
 quiff 	a piece of hair, especially on a man, brushed upward and backward from the forehead.	-1.0
-quincunx	 The arrangement of five items in this pattern	-1.0
-quincunx	an arrangement of five objects with four at the corners of a square or rectangle and the fifth at its center (like when you roll a fiveat dice)	-1.0
+quincunx	an arrangement of five objects with four at the corners of a square or rectangle and the fifth at its center (like when you roll a five at dice)	-1.0
 quintessential	representing the perfect example of a class or quality	0.0
 quisling	 a collaboator with occupying enemy forces, a traitor	-1.0
 quisling	a traitor who serves as the puppet of the enemy occupying his or her country.	-1.0
@@ -732,6 +761,7 @@ roman a clef	a novel in which real persons or actual events figure under disguis
 ropography	the depiction of those things which lack importance, the overlooked and everyday objects of life	0.0
 roscid 	Dewy, moist; falling like dew.	-1.0
 roué 	a man devoted to a life of sensual pleasure	-1.0
+rta 	the principle of natural order which regulates and coordinates the operation of the universe and everything within it (Hindiusm)	-1.0
 rusticate	to visit or live in the country	-1.0
 sabrage	 the technique of opening a champagne bottle with a sabre.	-1.0
 sacrosanct 	Treated as if holy; immune from criticism or violation.	-1.0
@@ -764,12 +794,12 @@ sine qua non	an essential condition; a thing that is absolutely necessary	0.0
 sinistrodextral	From left to right, like English writing. The opposite is dextrosinistral.	-1.0
 sisyphean 	  endless and unavailing, as labor or a task.	-1.0
 sitzkrieg 	a period of war marked by little or no active hostilities	-1.0
-skiamachy  a sham fight or argument; conflict or argument with an imaginary or insubstantial opponent. (etymology	 to fight with shadows.)	-1.0
+skiamachy	a sham fight or argument; conflict or argument with an imaginary or insubstantial opponent. (etymology to fight with shadows.)	-1.0
 skinkle	Verb. To glitter, glisten; to sparkle, twinkle.	-1.0
 skyclad	 Naked outdoors.	-1.0
 slake	cool, with water; quench 	0.0
 sluice	 to wash or rinse freely with a stream or shower of water; to pour, flow, or shower freely	-1.0
-smatter	(1) To speak (a language) without fluency. (2) To study or approach superficially; dabble in	-1.0
+smatter	 To speak (a language) without fluency. To study or approach superficially; dabble in	-1.0
 snaste  	 The burnt or burning part of the wick of a candle	-1.0
 snollygoster	A shrewd, unprincipled person.	-1.0
 snollygoster 	a shrewd, unprincipled person	-1.0
@@ -783,6 +813,7 @@ sophist 	 someone whose reasoning is subtle and often specious; person who makes
 sophistry	the clever use of arguments that seem true but are really false, in order to deceive people	-1.0
 sophomoric 	conceited and overconfident of knowledge but poorly informed and immature.	-1.0
 spandrel	 1. The roughly triangular space between the tops of two adjacent arches and the ceiling. (Architecture) 2. A trait that is not particularly advantageous to have, though it is retained because it is not particularly harmful. (Biology)	-1.0
+spandrel	a roughly triangular space, usually found in pairs, between the top of an arch and a rectangular frame; between the tops of two adjacent arches	-1.0
 spanghew	to throw violently into the air	-1.0
 spanogyny	a scarcity of women	-1.0
 spoonerism	  the transposition of the initial consonants or consonant clusters of a pair of words, often resulting in an amusing ambiguity of meaning, such as hush my brat for brush my hat	-1.0
@@ -796,9 +827,9 @@ squirl	A flourish or curve, especially in handwriting.	-1.0
 squittering	 Producing watery faeces, or randomly broadcasting data.	-1.0
 stellenbosch 	to relegate someone incompetent to a position of minimal responsibility	-1.0
 stendhal syndrome	rapid heart rate, dizziness, fainting, etc. experienced when in the presence of art, particularly when exposed to a large degree of beauty in a single place.	-1.0
-stentorian 	 𝑎𝑑𝑗. (of a person's voice) loud and powerful.	-1.0
+stentorian 	 (of a person's voice) loud and powerful.	-1.0
 stridulate	To make a shrill creaking noise by rubbing body parts together.	-1.0
-stultify	 (1) To render useless or ineffectual; cripple. (2) To cause to appear stupid, inconsistent, or ridiculous	-1.0
+stultify	  To render useless or ineffectual; cripple. To cause to appear stupid, inconsistent, or ridiculous	-1.0
 stultify	To cause to appear or be stupid, foolish, or absurdly illogical.	-1.0
 subnivean	Occurring beneath a layer of snow.	-1.0
 sui generis	 Being the only example of its kind; unique	-1.0
@@ -818,7 +849,10 @@ talisman	a trinket or piece of jewelry usually hung about the neck and thought t
 tarantism	 a mania characterized by an uncontrollable impulse to dance, especially as prevalent in southern Italy from the 15th to the 17th century, popularly attributed to the bite of the tarantula.	-1.0
 tartuffe	A religious hypocrite, or a hypocritical pretender to excellence of any kind	-1.0
 tatterdemalion	a person dressed in ragged clothing; a ragamuffin	-1.0
-tellurian	 An inhabitant of Earth.	-1.0
+teleology	the explanation of phenomena in terms of the purpose they serve rather than of the cause by which they arise 	-1.0
+teleonomy	 the quality of apparent purposefulness and of goal-directedness of structures and functions in living organisms brought about by natural processes like natural selection	-1.0
+tellurian	 An inhabitant of Earth; of or inhabiting the earth.	-1.0
+telos 	a term used by philosopher Aristotle to refer to the full potential or inherent purpose or objective of a person or thing	0.0
 temerity	the quality of being confident and unafraid of danger or punishment, especially in a way that seems rude or foolish	-1.0
 tempera	a medium used to bind pigments to painting 	0.0
 temporize 	 to be indecisive or evasive to gain time or delay acting	-1.0
@@ -827,7 +861,7 @@ tendentious	 Having or showing a definite tendency, bias, or purpose.	-1.0
 tenebrous 	gloomy, shadowy, or dark	-1.0
 terriculament	 A source or object of fear, especially of unnecessary fear; a bugbear.	-1.0
 terriculament 	A source or object of fear, especially of unnecessary fear; a bugbear	-1.0
-terrior 		-1.0
+terrior		-1.0
 test your vocabulary. contains non	word false answers. Language proficiency.	-1.0
 tetchy 	 irritably or peevishly sensitive; irritable and bad	-1.0
 thagomizer	The spiky end of a stegosaur's tail. Nonce word in a Far Side cartoon, but adopted by the palaeontological community.	-1.0
@@ -850,10 +884,10 @@ tosspot 	a drunkard, a habitual drinker	-1.0
 tranche	 A division or portion of a pool or whole.	-1.0
 trichiliocosm	(Buddhism) A concept in cosmology of a third-orderuniverse containing one thousand second-order clusters, which are made of one thousand first-order clusters, which are in turn made of a thousand worlds each. Billion-fold universe.	1.0
 tricoteuse	a woman who sits and knits (personally found from a David Bowie song)	-1.0
-trilemma 		-1.0
+trilemma		-1.0
 trumpery 	worthless nonsense	-1.0
 tulpa	 A magical creature that attains corporeal reality, having been originally merely imaginary; thought that has taken physical form.	-1.0
-tumescent	(1) Swollen or becoming swollen, especially as a response to sexual arousal (2) (Especially of language or literary style) pompous or pretentious; tumid	-1.0
+tumescent	 Swollen or becoming swollen, especially as a response to sexual arousal (Especially of language or literary style) pompous or pretentious; tumid	-1.0
 twitterpated	 infatuated or obsessed; in a state of nervous excitement.	-1.0
 tête	à	-1.0
 uhtcearu	Old English, The Anxiety before dawn. The anxiety that kept you up all night long	-1.0
@@ -904,3 +938,4 @@ zeugma	 The use of a word to modify or govern two or more words usually in such 
 zoanthropy	A form of madness involving the delusion of being an animal, with correspondingly altered behaviour.	-1.0
 zoilus	A bitter and often envious critic.	-1.0
 zugzwang	a compulsion to act that forces a choice between only negative outcomes	-1.0
+élan vital 	a term coined by French philosopher Henri Bergson in his 1907 book Creative Evolution, in which he addresses the question of self-organisation and spontaneous morphogenesis of things in an increasingly complex manner 	-1.0

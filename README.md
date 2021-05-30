@@ -5,7 +5,13 @@ A simple python vocabulary builder
 ## Usage
 
 
-Within python:
+The recommended way of using this is within [Jupyter Lab](https://jupyter.org/install). Once you have that installed, import it using:
+
+```python
+from pyvocab import vocab
+```
+
+
 
 
 ### Read all words in the dictionary
@@ -35,4 +41,14 @@ First, create two files called `.clientid` and `.clientsecret` with your reddit 
 vocab.reddit()
 ```
 
+
+## Developing
+
+If you are developing this, you probably want to make your life a little easier. Before importing `pyvocab`, 
+
+```python
+%load_ext autoreload
+%autoreload 2
+
+```
 

@@ -1,3 +1,5 @@
+"""A python-based vocabulary builder"""
+
 from pathlib import Path
 from PyDictionary import PyDictionary
 import pandas as pd
@@ -18,26 +20,31 @@ def read():
     words = pd.read_csv(file_loc,sep="\t",header=0)
 
     words.score.replace(np.NaN,-1,inplace=True)
-
+    words.definition.replace(np.NaN,"",inplace=True)
     return words
 
 
 def lookup():
     """look up definitions of words"""
-    
+  
     words = read()
     dictionary = PyDictionary
 
-    for word in words.keys():
-        if words[word] == "":
+    for i in range(len(words)):
+        if not (words.at[i,"definition"]):
+            word = words.at[i,"word"].lower().strip()
+            words.at[i,"word"] = word
+    
             print("looking up " + word)
             try:
-                a = dictionary.meaning(word)
-                words[word]=a[list(a.keys())[0]][0]
+                this_meaning = dictionary.meaning(word)
+                words.at[i,"definition"]=this_meaning[list(this_meaning.keys())[0]][0]
             except:
                 pass
 
+    print("Done!")
     save(words)
+
 
 def save(words):
     """save changes made to dictionary to disk"""
@@ -116,10 +123,10 @@ def parseAndAddWords(filename="reddit_words.txt"):
             ids.append(line.find("-"))
         if line.find("|") > 0:
             ids.append(line.find("|"))
-        
+       
         if len(ids) != 1:
             continue
- 
+
 
         line = line.split(line[ids[0]])
 
@@ -151,13 +158,10 @@ def test():
 
         testme = words[words.score == min(words.score)].sample()
 
-        idx = testme.first_valid_index()
-
-        
+        idx = testme.first_valid_index() 
 
         # print the definition and ask user for input
         i = input("\n\n\n"+words.definition[idx] + " (" + words.word[idx][0] + "_____)" + "\n")
-
 
         # check with key 
         if i.strip().lower() == words.word[idx].strip():
