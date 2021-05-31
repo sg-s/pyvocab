@@ -21,6 +21,9 @@ def read():
 
     words.score.replace(np.NaN,-1,inplace=True)
     words.definition.replace(np.NaN,"",inplace=True)
+    words.sort_values('word', inplace=True)
+    words.word = words.word.str.lower()
+    words.word = words.word.str.strip()
     return words
 
 
@@ -151,27 +154,30 @@ def test():
     # reads words
     words = read()
     goon = True
-
+    last_word = ""
     while goon:
 
         # pick the next word
 
-        testme = words[words.score == min(words.score)].sample()
+        testme = words[words.score == min(words.score[words.word != last_word])].sample()
 
-        idx = testme.first_valid_index() 
+        idx = testme.first_valid_index()
 
         # print the definition and ask user for input
         i = input("\n\n\n"+words.definition[idx] + " (" + words.word[idx][0] + "_____)" + "\n")
 
-        # check with key 
-        if i.strip().lower() == words.word[idx].strip():
+        # check with key
+        if i.strip().lower() == words.word[idx]:
             print("Correct!")
-            words.at[idx,'score']=words.at[idx,'score']+1
+            words.at[idx,'score']=words.at[idx,'score']+1 + np.random.randn()/10
         elif i == "stop":
             goon = False
         else:
-            words.at[idx,'score']=words.at[idx,'score']-2
+            words.at[idx,'score']=words.at[idx,'score']-2 + np.random.randn()/10
+
             print("Wrong! Correct answer is: " + words.word[idx])
+
+        last_word = words.word[idx]
 
     # write changes back to disk
     save(words)
