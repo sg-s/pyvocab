@@ -41,7 +41,7 @@ st.write(" ## *" + this_word["definition"].iloc[0].strip() + "*")
 st.write("#")
 st.write("#")
 
-other_words = words.sample(n=3)
+other_words = words.sample(n=5)
 
 
 correct_word = this_word["word"].iloc[0]
@@ -69,29 +69,17 @@ def common_callback(idx):
         st.session_state.correct_streak = 0
 
 
-def callback_func0():
-    common_callback(0)
-
-
-def callback_func1():
-    common_callback(1)
-
-
-def callback_func2():
-    common_callback(2)
-
-
-def callback_func3():
-    common_callback(3)
-
-
-col1, col2 = st.columns(2)
+col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.button(choices[0], on_click=callback_func0)
-    st.button(choices[1], on_click=callback_func1)
+    st.button(choices[0], on_click=common_callback, args=(0,))
+    st.button(choices[1], on_click=common_callback, args=(1,))
 
 
 with col2:
-    st.button(choices[2], on_click=callback_func2)
-    st.button(choices[3], on_click=callback_func3)
+    st.button(choices[2], on_click=common_callback, args=(2,))
+    st.button(choices[3], on_click=common_callback, args=(3,))
+
+with col3:
+    st.button(choices[4], on_click=common_callback, args=(4,))
+    st.button(choices[5], on_click=common_callback, args=(5,))
