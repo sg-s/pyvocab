@@ -3,3 +3,5 @@
 *sublime-workspace
 .clientid
 .clientsecret
+
+*pyvocab.egg-info/*
