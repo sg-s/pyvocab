@@ -1,7 +1,7 @@
 import random
 
 import streamlit as st
-from utils import read
+from utils import read_df
 
 st.set_page_config(page_title="pyvocab", layout="wide")
 
@@ -10,15 +10,16 @@ if "correct_streak" not in st.session_state:
 
 
 if "words" not in st.session_state:
-    st.session_state.words = read()
+    st.session_state.words = read_df("words.csv")
 
+if "distractors" not in st.session_state:
+    st.session_state.distractors = read_df("distractors.csv")
 
 words = st.session_state.words
-
+distractors = st.session_state.distractors
 
 this_word = words.sample()
 
-st.write("#")
 st.write("#")
 st.write("#")
 
@@ -30,9 +31,13 @@ st.write("#")
 other_words = words.sample(n=5)
 
 
+other_words = distractors[distractors["word"] == this_word["word"].iloc[0]][
+    "distractors"
+].to_list()[0]
+
 correct_word = this_word["word"].iloc[0]
 
-choices = list(other_words["word"])
+choices = other_words
 choices.append(correct_word)
 
 random.shuffle(choices)

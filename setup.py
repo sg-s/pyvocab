@@ -14,5 +14,6 @@ setup(
         "pandas>=1.3.2",
         "streamlit>=1.11.0",
         "interrogate>=1.0",
+        "python-Levenshtein",
     ],
 )
