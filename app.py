@@ -5,6 +5,8 @@ import pandas as pd
 
 import streamlit as st
 
+st.set_page_config(page_title="pyvocab", layout="wide")
+
 if "correct_streak" not in st.session_state:
     st.session_state.correct_streak = 0
 
@@ -20,7 +22,7 @@ def read():
     """reads the words into a dataframe"""
 
     file_loc = get_file_loc()
-    words = pd.read_csv(file_loc, sep="\t", header=0)
+    words = pd.read_csv(file_loc, sep="|", header=0)
 
     words.sort_values("word", inplace=True)
     words.word = words.word.str.lower()
@@ -28,7 +30,12 @@ def read():
     return words
 
 
-words = read()
+if "words" not in st.session_state:
+    st.session_state.words = read()
+
+
+words = st.session_state.words
+
 
 this_word = words.sample()
 
@@ -58,8 +65,10 @@ def common_callback(idx):
     if choices.index(correct_word) == idx:
         st.session_state.correct_streak += 1
         if st.session_state.correct_streak > 3:
+            n_stars = int(st.session_state.correct_streak / 5) + 1
             st.success(
-                f"# Correct! \n You got {st.session_state.correct_streak } right in a row!"
+                f"# Correct! \n You got {st.session_state.correct_streak} right in a row! "
+                + n_stars * "⭐️"
             )
         else:
             st.success("# Correct!")
