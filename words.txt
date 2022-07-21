@@ -50,7 +50,7 @@ anaculothon | an unexpected discontinuity in the expression of ideas within a se
 anagnorisis |  the point in the plot especially of a tragedy at which the protagonist recognizes his or her or some other character's true identity or discovers the true nature of his or her own situation
 ananke | is the personification of inevitability, compulsion and necessity (Greek mythology)
 anaphora |  the use of a word referring to or replacing a word used earlier in a sentence, to avoid repetition, such as "do" in "I like it and so do they";  a rhetorical device that consists of repeating a sequence of words at the beginnings of neighboring clauses, thereby lending them emphasis.
-epistrophe   is the repetition of the same word or words at the end of successive phrases, clauses or sentences
+epistrophe  | the repetition of the same word or words at the end of successive phrases, clauses or sentences
 anhedonia |  Not being able to find joy in things that usually bring one joy.
 aniline | oily poisonous liquid amine obtained from nitrobenzene and used to make dyes and plastics and medicines
 anodyne | 1.  a painkilling drug or medicine. 2.  not likely to provoke dissent or offence; inoffensive, often deliberately so.
@@ -452,9 +452,9 @@ lexiphanic | Using, or interlarded with pretentious words; bombastic; showing of
 lilt |  a pleasant and gentle accent 
 limacine | of, relating to, or resembling a slug
 limerence |  a state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one's feelings reciprocated, etc.
-Chiasmus    reversal of grammatical structures in successive phrases or clauses – but no repetition of words
-Antanaclasis    is the literary trope in which a single word or phrase is repeated, but in two different senses; a common type of pun
-Antimetabole    the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know"
+Chiasmus | reversal of grammatical structures in successive phrases or clauses – but no repetition of words
+Antanaclasis| is the literary trope in which a single word or phrase is repeated, but in two different senses; a common type of pun
+Antimetabole|    the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know"
 lissome | gracefully thin and bending and moving with ease
 lithe | (especially of a person's body) thin, supple, and graceful
 litotes | understatement in which an affirmative is expressed by the negative of the contrary (as in not a bad singer or not unhappy)
@@ -867,7 +867,7 @@ wherewithal | the necessary means (especially financial means
 whited sepulchre |  a person who is inwardly evil but outwardly professes to be virtuous
 witwanton | One who indulges in idle, foolish, and irreverent fancies or speculations; one who tries to be cleverly amusing but falls short.
 xeric |  characterized by, relating to, or requiring only a small amount of moisture
-Polyptoton   a stylistic scheme in which words derived from the same root are repeated (such as "strong" and "strength
+Polyptoton  | a stylistic scheme in which words derived from the same root are repeated (such as "strong" and "strength
 yarborough | a hand in which no card is higher than a nine.
 yestreen | yesterday evening
 zaftig | Of a woman, having a plump and sexually attractive figure.
