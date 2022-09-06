@@ -15,5 +15,11 @@ setup(
         "streamlit>=1.11.0",
         "interrogate>=1.0",
         "python-Levenshtein",
+        "pycore @ git+https://github.com/sg-s/pycore.git",
     ],
+    extras_require={
+        "dev": [
+            "pytest",
+        ]
+    },
 )
