@@ -1,9 +1,16 @@
+import os
 import random
 
 import streamlit as st
-from utils import read_df
+from utils import build_distractor_db, read_df
 
 st.set_page_config(page_title="pyvocab", layout="wide")
+
+
+if "distractors" not in st.session_state:
+    if not os.path.exists("distractors.csv"):
+        build_distractor_db()
+    st.session_state.distractors = read_df("distractors.csv")
 
 if "correct_streak" not in st.session_state:
     st.session_state.correct_streak = 0
@@ -12,8 +19,6 @@ if "correct_streak" not in st.session_state:
 if "words" not in st.session_state:
     st.session_state.words = read_df("words.csv")
 
-if "distractors" not in st.session_state:
-    st.session_state.distractors = read_df("distractors.csv")
 
 words = st.session_state.words
 distractors = st.session_state.distractors

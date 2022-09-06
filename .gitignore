@@ -3,5 +3,6 @@
 *sublime-workspace
 .clientid
 .clientsecret
+distractors.csv 
 
 *pyvocab.egg-info/*
