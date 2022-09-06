@@ -45,5 +45,6 @@ jobs:
 
       - name: run tests
         run: |
+          pip install -e .[dev]
           pytest -x
 
