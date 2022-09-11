@@ -24,3 +24,7 @@ dependencies = [
 ]
 
 
+[project.optional-dependencies]
+dev = ["pytest"]
+
+
