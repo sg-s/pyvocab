@@ -9,7 +9,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 version = "22.9.11"
 authors = [
-    "Srinivas Gorur-Shandilya <code@srinivas.gs>",
+    {name = "Srinivas Gorur-Shandilya", email="code@srinivas.gs"}
 ]
 
 license = {text = "GPLv3 License"}
