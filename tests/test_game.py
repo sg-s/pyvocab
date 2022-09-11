@@ -2,7 +2,7 @@ import os
 
 from pycore.core import check_type
 
-from utils import build_distractor_db, read_df
+from pyvocab.utils import build_distractor_db, read_df
 
 
 def test_words():
