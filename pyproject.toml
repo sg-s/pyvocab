@@ -6,8 +6,11 @@ build-backend = "setuptools.build_meta"
 name = "pyvocab"
 description = "Simple python-based vocabulary builder"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.8"
 version = "22.9.11"
+authors = [
+    "Srinivas Gorur-Shandilya <code@srinivas.gs>",
+]
 
 license = {text = "GPLv3 License"}
 classifiers = [
