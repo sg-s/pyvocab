@@ -1,8 +1,11 @@
 *__pycache__*
 *.DS_Store
 *sublime-workspace
+pyvocab.sublime-project
 .clientid
 .clientsecret
 distractors.csv 
 
 *pyvocab.egg-info/*
+poetry.lock
+streamlit.pid

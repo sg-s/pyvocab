@@ -1,0 +1,1 @@
+nohup poetry run streamlit run  --server.port $(less config.ini | grep "streamlit_port" | cut -d = -f 2) pyvocab/game.py > /dev/null 2>&1 & echo $! > streamlit.pid

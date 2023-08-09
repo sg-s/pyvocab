@@ -1,6 +1,0 @@
-pandas>=1.3.2
-watchdog
-streamlit>=1.11.0
-interrogate>=1.0
-python-Levenshtein
-pycore @ git+https://github.com/sg-s/pycore.git
